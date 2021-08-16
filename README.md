@@ -11,12 +11,25 @@ To install all the dependencies of the project, just use pip:
 pip install requirements.txt
 ```
 
+## The CRISP-DM Process (Cross Industry Process for Data Mining)
+
+The lessons leading up to the first project are about helping you go through CRISP-DM in practice from start to finish.
+
+In this project I'm going through CRISP-DM using the followings steps:
+
+- Business Understanding
+- Data Understanding
+- Prepare Data
+- Data Modeling
+- Evaluate the Results
+
+**Important Note:** All of the CRISP-DM steps used are described directly in the `Analyze.ipynb` file.
 
 ## Project Motivation
 
 In this repository I'm sharing the files used to finish the first project of the *Udacity Nanodegree: Become a Data Scientist*.
 
-This project consists in just one Python Notebook called `Analyze.ipynb`that was used to get different information from the Rio de Janeiro Airbnb data.
+This project consists in just one Python Notebook called `Analyze.ipynb` that was used to get different information from the Rio de Janeiro Airbnb data.
 
 It includes also the csv file used in the analysis and an image used to improve one of the analysis.
 
